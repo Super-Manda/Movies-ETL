@@ -11,6 +11,15 @@
 
 2)  To perform the extract, transform, and load (ETL) process by adding the data to a PostgreSQL database.
 
+## Extract and Transform
+- Write an ETL Function to Read Three Data Files: [Deliverable1](https://github.com/Super-Manda/Movies-ETL/blob/main/ETL_function_test.ipynb)
+
+- Extract and Transform the Wikipedia Data: [Deliverable2](https://github.com/Super-Manda/Movies-ETL/blob/main/ETL_clean_wiki_movies.ipynb)
+
+- Extract and Transform the Kaggle data: [Deliverable3](https://github.com/Super-Manda/Movies-ETL/blob/main/ETL_clean_kaggle_data.ipynb) 
+
+- Create the Movie Database: [Deliverable4](https://github.com/Super-Manda/Movies-ETL/blob/main/ETL_create_database.ipynb) 
+
 
 ## Load
 ![Loading](https://github.com/Super-Manda/Movies-ETL/blob/main/elapsed%20time%20to%20add%20the%20data%20to%20the%20database.png)
