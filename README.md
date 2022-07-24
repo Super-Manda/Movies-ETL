@@ -12,5 +12,18 @@
 2)  To perform the extract, transform, and load (ETL) process by adding the data to a PostgreSQL database.
 
 
-## End Product
+## Load
 ![Loading](https://github.com/Super-Manda/Movies-ETL/blob/main/elapsed%20time%20to%20add%20the%20data%20to%20the%20database.png)
+
+
+## End Products in SQL
+
+### Movies Query
+![movies_query](https://github.com/Super-Manda/Movies-ETL/blob/main/movies_query.png)
+
+### Ratings Query
+![ratings_query](https://github.com/Super-Manda/Movies-ETL/blob/main/ratings_query.png)
+
+
+- **These end products match what was loaded in the "loading phase (see highlighting above)."**
+
