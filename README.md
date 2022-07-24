@@ -1,6 +1,7 @@
-# :clapper: Movies-ETL :movie_camera:
+# :film_projector: Movies-ETL :tv:
 
-## Purpose :film_strip:
+
+## :bulb: Purpose  
 
 1)  To create one function that takes in the [three files](https://github.com/Super-Manda/Movies-ETL/blob/main/Data%20Sources.zip)
   - Wikipedia data
@@ -11,7 +12,8 @@
 
 2)  To perform the extract, transform, and load (ETL) process by adding the data to a PostgreSQL database.
 
-## Extract and Transform
+
+## :movie_camera: Extract and Transform 
 
 ### Read Three Data Files with a Written ETL function: 
 - [Deliverable 1](https://github.com/Super-Manda/Movies-ETL/blob/main/ETL_function_test.ipynb)
@@ -29,11 +31,11 @@
 - [Deliverable 4](https://github.com/Super-Manda/Movies-ETL/blob/main/ETL_create_database.ipynb) 
 
 
-## Load
+## :film_strip: Load  	
 ![Loading](https://github.com/Super-Manda/Movies-ETL/blob/main/elapsed%20time%20to%20add%20the%20data%20to%20the%20database.png)
 
 
-## End Products in SQL
+## :clapper: End Products in SQL
 
 ### Movies Query
 ![movies_query](https://github.com/Super-Manda/Movies-ETL/blob/main/movies_query.png)
